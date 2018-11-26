@@ -11,7 +11,7 @@
 ## G
 ## H
 ## I
-### IDE
+***integrated development environment;***
 ## J
 ## K
 ## L
