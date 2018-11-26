@@ -1,6 +1,6 @@
 # Glossary of Terms
 ## A
-***algorithm;***
+***algorithm;*** a set of rules/instructions used in calculation, data processing and automated tasks. 
 ### Application
 ## B
 ## C
@@ -11,7 +11,7 @@
 ## G
 ## H
 ## I
-***integrated development environment;***
+***integrated development environment;*** a software application providing facilities to help programmers develop software. They often include a code editor, build tools and a debugger amongst other features.
 ## J
 ## K
 ## L
