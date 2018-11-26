@@ -1,9 +1,37 @@
-# Glossary
-A list of definitions for the West Herts HND.
-## Glossary Terms
-### Algorithm
+# Glossary of Terms
+## A
+***algorithm;***
 ### Application
+## B
+## C
+## D
+## E
+***event-driven paradigm;***
+## F
+## G
+## H
+## I
 ### IDE
-### Procedural Paradigm
-### Object-orientated Paradigm
-### Event-driven Paradigm
+## J
+## K
+## L
+## M 
+## N
+## O
+***object-orientated paradigm;***
+## P
+***procedural paradigm;***
+## Q
+## R
+## S
+## T
+## U 
+## V
+## W
+## X
+## Y
+## Z
+
+
+
+
