@@ -1,11 +1,13 @@
 # Glossary of Terms
 ## A
-***algorithm;*** a set of rules/instructions used in calculation, data processing and automated tasks.
+***algorithm;*** a set of rules/instructions used in calculation, data processing and automated tasks.   
+
 ***agile;***
 ### Application
 ## B
 ## C
-***cleanroom model;***
+***cleanroom model;***   
+
 ***command-line;***
 ## D
 ***debugging;***
@@ -15,7 +17,8 @@
 ## G
 ## H
 ## I
-***integrated development environment;*** a software application providing facilities to help programmers develop software. They often include a code editor, build tools and a debugger amongst other features.
+***integrated development environment;*** a software application providing facilities to help programmers develop software. They often include a code editor, build tools and a debugger amongst other features.   
+
 ***iterative model;***
 ## J
 ## K
@@ -29,7 +32,8 @@
 ## Q
 ## R
 ## S
-***sequential model;***
+***sequential model;***   
+
 ***spiral model;***
 ## T
 ## U 
