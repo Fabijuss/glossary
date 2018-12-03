@@ -1,6 +1,6 @@
 # Glossary of Terms
 ## A
-***[algorithm;](#algorithm;)*** a set of rules/instructions used in calculation, data processing and automated tasks. It can be used from simple to complex tasks. Algorithms are often implemented in the form of functions in programming, they act as small programs which can are used by the main program to perform specific tasks.   
+#### ***algorithm;*** a set of rules/instructions used in calculation, data processing and automated tasks. It can be used from simple to complex tasks. Algorithms are often implemented in the form of functions in programming, they act as small programs which can are used by the main program to perform specific tasks.   
 
 ***agile;***
 ### Application
