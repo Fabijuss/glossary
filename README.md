@@ -40,7 +40,7 @@
 ## U 
 ## V
 ## W
-***[waterfall model;](#waterfall-model;)***
+***waterfall model;***
 ## X
 ## Y
 ## Z
